@@ -1,8 +1,5 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-plt.style.use('ggplot')
 from sklearn.metrics.pairwise import linear_kernel
 from sklearn.feature_extraction.text import CountVectorizer 
 from sklearn.feature_extraction.text import TfidfVectorizer  # TF-IDF
