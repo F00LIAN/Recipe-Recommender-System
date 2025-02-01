@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/4cbf0230-f51e-407e-8cbd-f35d1bd39711
 
 <h2>Try it Now!</h2>
 
-- ### [Food Recommendation System Website](https://your-streamlit-app-link-here)
+- ### [Food Recommendation System Website](https://deep-learning-recipe-recommendation.streamlit.app/)
 
 <h2>Environments and Technologies Used</h2>
 
