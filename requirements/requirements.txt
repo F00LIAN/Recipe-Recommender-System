@@ -1,8 +1,0 @@
-nltk
-numpy
-seaborn
-matplotlib
-scikit-learn
-transformers
-sentence_transformers
-ipykernel
